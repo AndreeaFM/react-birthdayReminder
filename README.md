@@ -1,2 +1,2 @@
-# react-birthdayReminder
+# React-birthdayReminder
 birthday reminder app
